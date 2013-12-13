@@ -35,7 +35,7 @@ class CurryBreadMan extends Hero
      */
     public function getIntro()
     {
-        return 'set messages';
+        return '当たらなければどうという事はない。';
     }
 }
 ?>
