@@ -25,7 +25,7 @@ class CurryBreadMan extends Hero
 {
 
     protected $name='カレーパンマン';
-    protected $finish_echo='';
+    protected $finish_echo='ぶっ殺してやるってセリフは、、、終わってから言うもんだぜ。俺たちギャングの世界ではな';
               
     /**
      * 紹介文
