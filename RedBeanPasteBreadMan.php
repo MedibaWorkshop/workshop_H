@@ -25,7 +25,7 @@ class RedBeanPasteBreadMan extends Hero
 {
 
     protected $name='アンパンマン';
-    protected $finish_echo='ぶっコロスケ';
+    protected $finish_echo='殺す。';
               
     /**
      * 紹介文
@@ -35,7 +35,7 @@ class RedBeanPasteBreadMan extends Hero
      */
     public function getIntro()
     {
-        return '元気１００倍!!';
+        return 'よろしく';
     }
 }
 ?>
